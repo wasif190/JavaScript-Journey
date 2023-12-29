@@ -19,4 +19,4 @@ function divide(x,y) {
 }
 
 console.log(divide(10,2));
-console.log(divide(8,0))
+console.log(divide(8,0));
